@@ -8,6 +8,7 @@ namespace BochaTestGit1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Test Git");
+            Console.WriteLine("New string");
         }
     }
 }
